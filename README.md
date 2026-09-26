@@ -1,4 +1,4 @@
-# A Little Current — Physics Playground
+# Aquarium
 
 Experiment 02: an interactive aquarium and a small study in fluid motion. The single-page layout shares the Field Notes identity of the neighbouring Weighing-Scale project.
 
